@@ -1,6 +1,4 @@
 # Hello, I'm Devin Cox
-<a href="www.linkedin.com/in/devin-cox-1a6b29338"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
 ## Introduction
 
 Motivated and detail-oriented Information Technology and Cybersecurity student seeking an entry-level role in IT support, cybersecurity operations, or system administration. 
