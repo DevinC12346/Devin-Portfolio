@@ -11,7 +11,6 @@ Motivated and detail-oriented Information Technology and Cybersecurity student s
  Eager to apply technical expertise and problem-solving skills in a professional setting.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -19,14 +18,30 @@ Motivated and detail-oriented Information Technology and Cybersecurity student s
 | Wireshark Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 
 
+
+
+## Coding Languages
+<div>
+    <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
+</div>
+
+<div>
+    <img src="https://img.shields.io/badge/-Java-007396?&style=for-the-badge&logo=Java&logoColor=white" />
+</div>
+
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft%20SQL%20Server-CC2927?&style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
+</div>
+
+
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
   
 </div>
+
 
 
 ### SIEM
