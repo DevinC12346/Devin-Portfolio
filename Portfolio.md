@@ -12,7 +12,7 @@ Motivated and detail-oriented Information Technology and Cybersecurity student s
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Elastic Stack SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Wireshark Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Wireshark Network Traffic Monitoring and Attack Detection | <a href="https://github.com/DevinC12346/Detection-and-Malware-Analysis-Lab">Detection Lab</a>|
 
 
 
