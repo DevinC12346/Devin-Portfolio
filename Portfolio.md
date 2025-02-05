@@ -1,6 +1,5 @@
 # Hello, I'm Devin Cox
 ## Introduction
-
 Motivated and detail-oriented Information Technology and Cybersecurity student seeking an entry-level role in IT support, cybersecurity operations, or system administration. 
 
 ## Objective
