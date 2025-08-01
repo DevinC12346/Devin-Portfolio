@@ -14,6 +14,7 @@ Motivated and detail-oriented Information Technology and Cybersecurity student s
 | Elastic Stack SIEM Implementation and Log Analysis          | <a href="https://google.com">Write-up</a>|
 | Wireshark Network Traffic Monitoring and Attack Detection | <a href="https://github.com/DevinC12346/Detection-and-Malware-Analysis-Lab/blob/main/Hawkeye%20Lab.md">Write-up</a>|
 | Ransomware Detection and Analysis-Volatility3| <a href =https://github.com/DevinC12346/Ransomware-Lab-Analysis/blob/main/README.md>Write-up</a>|
+|Vault Secrets Retreival| <a href =https://github.com/DevinC12346/Vault_Secrets_Writeup>Write-up</a>|
 
 
 
